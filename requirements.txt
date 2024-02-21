@@ -1,0 +1,25 @@
+# requirements.txt
+
+# Data manipulation and analysis
+pandas==1.3.4
+numpy==1.21.2
+
+# Data visualization
+matplotlib==3.4.3
+seaborn==0.11.2
+scipy==1.7.1
+
+# Machine learning and modeling
+scikit-learn==1.0.1
+lightgbm==3.3.1
+
+# Utilities
+joblib==1.1.0
+
+# Jupyter and notebooks
+jupyter==1.0.0
+ipywidgets==7.6.5
+
+# Other dependencies
+google-colab==1.0.0
+
