@@ -18,7 +18,7 @@ Two machine learning models were developed for this project: a Regularized Logis
 
 ### Model comparison
 
-![confusion_matrix](./images/confusion matrix.png)
+![confusion_matrix](./images/confusion_matrix.png)
 
 ## Feature Importance
 
