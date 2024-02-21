@@ -12,7 +12,7 @@ Obesity is a significant public health concern, and early detection and manageme
 The dataset used for this project consists of various features related to patient health indicators and demographics. These include age, gender, BMI, diet, physical activity, and other relevant health metrics. Despite the presence of missing data in some columns, the dataset appears to be in a consistent format.
 Modeling and Evaluation
 
-Two machine learning models were developed for this project: a Regularized Logistic Regression model and a Light Gradient Boosting model. Both models were evaluated using several metrics including accuracy, precision, recall, and F1 score. The Light Gradient Boosting model achieved an accuracy of 88% on the validation data, demonstrating its effectiveness in predicting obesity risk.
+Two machine learning models were developed for this project: a Regularized Logistic Regression model and a Light Gradient Boosting model. Both models were evaluated using several metrics including accuracy. The Light Gradient Boosting model achieved an accuracy of 88% on the validation data, demonstrating its effectiveness in predicting obesity risk.
 
 ![relationship_between_bmi_age_and_obesity](./images/eda.png)
 
